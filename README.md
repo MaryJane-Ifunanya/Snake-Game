@@ -4,5 +4,4 @@
 
 
 
-![Demonstração](C:\Users\ugoluz\Desktop\snakegame\Demonstração.png)
 
